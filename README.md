@@ -57,32 +57,6 @@ firebase deploy
 ```
 For more info, please refer: <a href="https://firebase.google.com/docs/functions/get-started">Firebase Cloud Functions</a>
 
-## Running the Project
-
-```
-# Install the dependencies
-flutter pub get
-
-# Run the project
-flutter run
-```
-
-## Screenshots
 
 
-<img src="assets/github/landing.jpg" width="200" > &nbsp; <img
-src="assets/github/login.jpg" width="200"> &nbsp; <img
-src="assets/github/drawer.jpg" width="200"> &nbsp; <img
-src="assets/github/dashboard.jpg" width="200"> &nbsp; <img
-src="assets/github/make_attendance.jpg" width="200"> &nbsp; <img
-src="assets/github/mark_attendance.jpg" width="200"> &nbsp; <img
-src="assets/github/leave_make.jpg" width="200"> &nbsp; <img
-src="assets/github/leave_status.jpg" width="200"> &nbsp; <img
-src="assets/github/calendar.jpg" width="200">
 
-## Our TEAM 🤘
-
-- <a href="https://github.com/deepaktiwari88">Deepak Tiwari</a>
-- <a href="https://github.com/arunav11">Arunav Sharma</a>
-- <a href="https://github.com/agargya123">Avantika Gargya</a>
-- <a href="https://github.com/divy4nsh">Divyansh Singh</a>
