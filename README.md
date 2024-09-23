@@ -56,6 +56,8 @@ firebase login
 firebase deploy
 ```
 For more info, please refer: <a href="https://firebase.google.com/docs/functions/get-started">Firebase Cloud Functions</a>
+Priyanshu Kulyal
+Vibha Yadav
 
 
 
